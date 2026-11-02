@@ -1,1 +1,1 @@
-jspeed.lua
+speed.lua
